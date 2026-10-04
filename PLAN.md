@@ -1,9 +1,15 @@
 ## 🚀 THE 20-DAY FORGE AVIONICS FLIGHT PLAN
+
 Project Target: 2,500 Coins for the Framework Laptop
+
 Tracking Tool: Laptop Screenshot Capture / Desktop Timelapse Recorder
+
 Design Environment: EasyEDA Pro (PC Desktop App) & Onshape (Browser)
+
 Strict Project Constraints: Circular/Slim form-factor matching a standard 24.1mm BT-50 body tube (PCB size restricted to 22mm x 75mm).
-------------------------------
+
+-------
+
 ## 📅 THE EXACT DAILY BREAKDOWN## WEEK 1: Schematic Mastery & Library Engineering## Oct 4 (Sunday) | ⏱️ 19:00 - 23:00 (4.0 Hours)
 
 * Project Phase: Environment Configuration & Component Placement
