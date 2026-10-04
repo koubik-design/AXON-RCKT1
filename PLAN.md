@@ -83,7 +83,9 @@ Strict Project Constraints: Circular/Slim form-factor matching a standard 24.1mm
 
 -----------
 
-## WEEK 2: High-Density PCB Architecture & Signal Layering## Oct 12 (Monday - Long School Day) | ⏱️ 20:00 - 22:30 (2.5 Hours)
+## WEEK 2: High-Density PCB Architecture & Signal Layering
+
+## Oct 12 (Monday - Long School Day) | ⏱️ 20:00 - 22:30 (2.5 Hours)
 
 * Project Phase: High-Speed Telemetry Signal Tracing
 * Task List:
