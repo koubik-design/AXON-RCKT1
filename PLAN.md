@@ -10,7 +10,10 @@ Strict Project Constraints: Circular/Slim form-factor matching a standard 24.1mm
 
 -------
 
-## 📅 THE EXACT DAILY BREAKDOWN## WEEK 1: Schematic Mastery & Library Engineering## Oct 4 (Sunday) | ⏱️ 19:00 - 23:00 (4.0 Hours)
+## 📅 THE EXACT DAILY BREAKDOWN
+### WEEK 1: Schematic Mastery & Library Engineering
+
+## Oct 4 (Sunday) | ⏱️ 19:00 - 23:00 (4.0 Hours)
 
 * Project Phase: Environment Configuration & Component Placement
 * Task List:
@@ -78,7 +81,8 @@ Strict Project Constraints: Circular/Slim form-factor matching a standard 24.1mm
    * Route the heavy power lines (GND, VBAT, 3.3V) with extra thick traces (0.5mm to 0.8mm width) to ensure they can carry high currents without overheating.
    * Route your sensitive data paths (SDA, SCL, SPI lines) with thin, clean traces (0.2mm width) keeping them straight and direct.
 
-------------------------------
+-----------
+
 ## WEEK 2: High-Density PCB Architecture & Signal Layering## Oct 12 (Monday - Long School Day) | ⏱️ 20:00 - 22:30 (2.5 Hours)
 
 * Project Phase: High-Speed Telemetry Signal Tracing
